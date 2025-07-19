@@ -1,0 +1,6 @@
+Exercise 5.5 – AI Ethics and Compliance Case Study:
+Case Study: Your school is considering an AI-driven adaptive learning platform for math. It adjusts the difficulty of problems based on student performance and claims to use “AI-powered analytics” to predict when a student is falling behind. The company is based in the EU and markets it for K-12 schools. You have the following info: it collects student names, ages, and daily performance data; it provides dashboards to teachers with risk flags for certain students; and it offers a parent portal.
+Working in small groups or individually, identify at least one issue or question for each of these areas: EU AI Act, GDPR, equity
+EU AI Act: What kind of data is your system trained on? Can staff see what data went into decisions around what kinds of problems students are receiving?
+GDPR: Does the platform need all of the demographic info it is asking for in order to adapt math problems for students based upon their performance? Do students/families/educators have the ability to review student performance data on the problems they have been given? 
+Equity: Do students from certain groups consistently perform better or worse than others? Is this tool compatible with screen readers?
